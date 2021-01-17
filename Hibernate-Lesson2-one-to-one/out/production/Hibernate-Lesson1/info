@@ -1,0 +1,65 @@
+HIBERNATE:
+
+Hibernat 2001 ci ile Gavin King terefinden yaradilmir bir frameworkdur
+Hibernate frameworku java frameworkudur hansiki java applikasiyalarini database ile elaqelendire bilmek ucun
+istifade olunur.Open Source ,yungul,ORM tool u dur aletidir yeni
+Hibernate Jpa spesifikasilayarina implement edir
+
+
+ORM Tool:
+ORM tool data larin yaradilmasi , manipulyasiyasi ve accessini temin eden bir aletdir.
+ORM Tool oz daxilinde JDBC API dan istifade ederek database ile elaqe qurur.
+Bundan once biz JDBC ile bir basa ozumzu isliyirdik indi ise bunu asanlasdirmaq ucun ORM den istifade edeceyik
+
+JPA:
+JPA  yeni Java Persistence API java spesifikasiyasidir yeni framework deyil,ORM aletine mueyyen funksionalliqlar ve
+standartlar temin eden spsisifikasiyadir.javax.persistence paketi daxilinde butun class ve interface lerini saxliyir
+
+HIbernate in avantajlari:
+
+1) Open Source ve Lightweight  olmasi
+
+2) Cox Suretli Performans:
+Hibernate frameworku cox surtelidi sebebi ise daxilinde cache dan istifade etmesidir,2 tip cache yaddasi var
+first level  ve second level cache yaddasdan istifade olunur . first level cche default dur
+
+3) DataBase Independent Query:
+Query lerden asli olmadan isliye bilirsen, cunki hibernate framewrok u daxilde bu isi ozu gorur ve sene sadece metodlarindan
+istifade etmek qalir, tebii ki bezen queryleri ozumuzde yaza bilerik bu artiq secimden aslidi, ancaq sql query ni ozumuz yazdiqda
+proyektde database deyisilse sql query nide deyismeli olacaqsan amma hibernatde bele deyil
+
+4)Automatic table Creation:
+Hibernate framework sene databas tablei ni avtomatik yaratma funksiyasi verir.Database de gedib ozun yaratmaga ehtiyac yoxdur
+Tebiiki bu tipli frameworklar bizim isimizi yungullesdirsede ilk oyrendiyiniz erefelerde sql i ozunuz yazmaga calisin
+
+5)Simplifies Complex Join:
+Database den bir cox table lardan melumat cekmeyi sadelesdirir
+
+6) Hibernate Query Cashe i destekleyir ve sene query statistikasini ve database statusunu izlemeyi temin edir
+========================================================================================================================================
+
+Hibernate Architecture
+
+Hibernate arxitekturasi daxilinde coxlu obyektler saxliyir,session factory, transaction,factory, session,transaction,connection factory ve s bunun kimi
+obyektler saxliyir
+
+Hibernate arxitekturasi 4 kateqoriyaya bolunur
+  Java Application Layer
+  Hibernate Framework Layer
+  Backend Layer
+  Database Layer
+
+Hibernate deki elementler :
+
+SessionFactory obyekti:
+SessionFactory bir session fabrikasi ve ConnectionProvider musterisi client didir.Secong level Cache yaddasi saxliyir
+org.hibernate.SessionFactory interfesi de Session obyektini elde etmek ucun factory pattern usulunu tetbiq edir
+
+Session:
+Session object tetbiq ile verilenler bazasinda saxlanilan melumatlar arasinda bir interfeys temin edir,Qisa muddetli bir obyektdir buna short lifecycle da deyirik, ve JDBC connectionu qurur
+Transaction, Query ve Criteria larin factory i sayilir.First level cache saxliyir,Session interfeysi bize insert updae delete object lerini temin edir
+
+Transaction ve TransactionFactory optinal(yeni zeruri bir obyektlerdi)
+
+ConnectionProvider:
+JDBC connection nin factory sidir, optional dir.

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19576d5e-1059-49ac-a0cc-5fdc5669185a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n37nGXGsuZVjkt6tWNb46vl4Ef" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.35632184" />
+  </component>
+  <component name="RunManager" selected="Application.FindAllStudents">
+    <configuration name="CreateStudentService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.studentservice.CreateStudentService" />
+      <module name="Hibernate-Lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.studentservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteStudentService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.studentservice.DeleteStudentService" />
+      <module name="Hibernate-Lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.studentservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindAllStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.studentservice2.FindAllStudents" />
+      <module name="Hibernate-Lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.studentservice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetStudentByFinCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.studentservice2.GetStudentByFinCode" />
+      <module name="Hibernate-Lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.studentservice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetStudentByFirstName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.studentservice2.GetStudentByFirstName" />
+      <module name="Hibernate-Lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.studentservice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindAllStudents" />
+        <item itemvalue="Application.GetStudentByFinCode" />
+        <item itemvalue="Application.GetStudentByFirstName" />
+        <item itemvalue="Application.CreateStudentService" />
+        <item itemvalue="Application.DeleteStudentService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19576d5e-1059-49ac-a0cc-5fdc5669185a" name="Default Changelist" comment="" />
+      <created>1610607085692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610607085692</updated>
+      <workItem from="1610607089483" duration="88000" />
+      <workItem from="1610607561961" duration="767000" />
+      <workItem from="1610608634727" duration="11863000" />
+      <workItem from="1610874907470" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610874926104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610874926104" />
+    <state x="190" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1610622092448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="190" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1610622092448" />
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1610623956765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610623956765" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1610875187103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610875187103" />
+    <state width="1493" height="434" key="GridCell.Tab.0.bottom" timestamp="1610624928526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="434" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610624928526" />
+    <state width="1493" height="434" key="GridCell.Tab.0.center" timestamp="1610624928526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="434" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610624928526" />
+    <state width="1493" height="434" key="GridCell.Tab.0.left" timestamp="1610624928526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="434" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610624928526" />
+    <state width="1493" height="434" key="GridCell.Tab.0.right" timestamp="1610624928526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="434" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610624928526" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1610624318970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610624318970" />
+  </component>
+</project>
