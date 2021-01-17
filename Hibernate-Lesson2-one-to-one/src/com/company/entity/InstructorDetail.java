@@ -15,6 +15,9 @@ public class InstructorDetail {
     @Column(name = "website")
     private String website;
 
+    public InstructorDetail() {
+    }
+
     public InstructorDetail(String youtubeChannel, String website) {
         this.youtubeChannel = youtubeChannel;
         this.website = website;

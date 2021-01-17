@@ -6,7 +6,7 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-public class ReadInstructor {
+public class UpdateInstructor {
 
     public static void main(String[] args) {
 
@@ -21,13 +21,14 @@ public class ReadInstructor {
 
         try {
 
-            //  instructor i id e ile cagirmagimiz yeterlidiki onunla birlikde instructorDetail table in daki melumatlarida
-            // getire bilek
+            // ide gore sadece instructoru tapiriq ve set elemeknen yeterlidki update olunsun
+            // hetta buna gore ayrica query yazib instructor deyaili da cagirmaq lazim deyil
+            //  Hibernate frame work bizim ucun bu qeder sade bir hala getirir ki artiq jdbc de etdiyiniz kimi uzun uzun kodlar yazmiyasiniz
             session.beginTransaction();
 
             Instructor instructor = session.get(Instructor.class, 1L);
-            System.out.println(instructor);
-            System.out.println(instructor.getInstructorDetail());
+            instructor.setFirstName("Rahib");
+            instructor.getInstructorDetail().setWebsite("dedebaba.com");
 
             session.getTransaction().commit();
 
