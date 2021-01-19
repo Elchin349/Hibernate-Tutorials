@@ -21,6 +21,11 @@ public class InstructorCreate {
         Session session = sessionFactory.getCurrentSession();
 
         try{
+            /**
+             * Instructor ve Detaili yaradandna sonra instructora set edirik ve bundan sona session.save edirik ve belelikle
+             * bizim butun melumatlarimizi bazaya yazilir
+             * Hibernate ile bu sekilde create etmek read etmek ve s basqa emmeleri etmek cox sade bir prosedurdu
+             */
             Instructor instructor = new Instructor("Elchin","Akbarov","elchin@gmail.com");
 
             InstructorDetail instructorDetail = new InstructorDetail("myYoutubeChannel","www.javamirt.com");

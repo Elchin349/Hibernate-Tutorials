@@ -25,7 +25,8 @@ public class ReadInstructor {
             // getire bilek
             session.beginTransaction();
 
-            Instructor instructor = session.get(Instructor.class, 1L);
+            long id = 1L; // id ini bazadan baxib gotururem
+            Instructor instructor = session.get(Instructor.class, id);
             System.out.println(instructor);
             System.out.println(instructor.getInstructorDetail());
 
