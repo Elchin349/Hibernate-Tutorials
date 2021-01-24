@@ -21,7 +21,7 @@ HIbernate in avantajlari:
 
 2) Cox Suretli Performans:
 Hibernate frameworku cox surtelidi sebebi ise daxilinde cache dan istifade etmesidir,2 tip cache yaddasi var
-first level  ve second level cache yaddasdan istifade olunur . first level cche default dur
+first level  ve second level cache yaddasdan istifade olunur . first level cache default dur
 
 3) DataBase Independent Query:
 Query lerden asli olmadan isliye bilirsen, cunki hibernate framewrok u daxilde bu isi ozu gorur ve sene sadece metodlarindan
@@ -52,7 +52,7 @@ Hibernate arxitekturasi 4 kateqoriyaya bolunur
 Hibernate deki elementler :
 
 SessionFactory obyekti:
-SessionFactory bir session fabrikasi ve ConnectionProvider musterisi client didir.Secong level Cache yaddasi saxliyir
+SessionFactory bir session fabrikasi ve ConnectionProvider musterisi client didir.Second level Cache yaddasi saxliyir
 org.hibernate.SessionFactory interfesi de Session obyektini elde etmek ucun factory pattern usulunu tetbiq edir
 
 Session:

@@ -1,0 +1,21 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+        <session-factory>
+            <property name="connection.url">jdbc:postgresql://localhost/hibernate-practice-db</property> <!-- BD Mane -->
+            <property name="connection.driver_class">org.postgresql.Driver</property> <!-- DB Driver -->
+            <property name="connection.username">postgres</property> <!-- DB User -->
+            <property name="connection.password">3499190</property> <!-- DB Password -->
+
+            <property name="connection.pool_size">1</property>
+
+            <property name="dialect"> org.hibernate.dialect.PostgreSQL82Dialect</property> <!-- DB Dialect -->
+            <property name="hbm2ddl.auto">update</property> <!-- create / create-drop / update   table yaradaaqsizda create edib sonra update  cevirin-->
+
+            <property name="show_sql">true</property> <!-- Show SQL in console -->
+            <property name="format_sql">true</property> <!-- Show SQL formatted -->
+            <property name="current_session_context_class">thread</property>
+        </session-factory>
+</hibernate-configuration>

@@ -2,123 +2,104 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19576d5e-1059-49ac-a0cc-5fdc5669185a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/aef6ff60-cb91-4a64-994c-555c93316630.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/aef6ff60-cb91-4a64-994c-555c93316630/storage_v2/_src_/database/hibernate-student-tracker.K4YTyA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/aef6ff60-cb91-4a64-994c-555c93316630/storage_v2/_src_/database/hibernate-student-tracker.K4YTyA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/aef6ff60-cb91-4a64-994c-555c93316630/storage_v2/_src_/database/hibernate-student-tracker.K4YTyA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/aef6ff60-cb91-4a64-994c-555c93316630/storage_v2/_src_/database/hibernate-student-tracker.K4YTyA/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/required.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hibernate-Lesson1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hibernate-Lesson1/com/company/entity/Instructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hibernate-Lesson1/com/company/entity/InstructorDetail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hibernate-Lesson1/com/company/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hibernate-Lesson1/com/company/instrucorservice/InstructorCreate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hibernate-Lesson1/com/company/instrucorservice/ReadInstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hibernate-Lesson1/com/company/instrucorservice/UpdateInstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hibernate-Lesson1/com/company/studentservice/CreateStudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hibernate-Lesson1/com/company/studentservice/DeleteStudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hibernate-Lesson1/com/company/studentservice/ReadStudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hibernate-Lesson1/com/company/studentservice/UpdateStudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hibernate-Lesson1/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/entity/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/entity/InstructorDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/instrucorservice/DeleteInstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/instrucorservice/InstructorCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/instrucorservice/ReadInstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/instrucorservice/UpdateInstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/studentservice/CreateStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/studentservice/DeleteStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/studentservice/ReadStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/studentservice/UpdateStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/.idea/libraries/postgresql_42_2_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/.idea/libraries/required.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/Hibernate-Lesson1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/out/production/Hibernate-Lesson1/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/out/production/Hibernate-Lesson1/com/company/entity/Instructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/out/production/Hibernate-Lesson1/com/company/entity/InstructorDetail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/out/production/Hibernate-Lesson1/com/company/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/out/production/Hibernate-Lesson1/com/company/instrucorservice/InstructorCreate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/out/production/Hibernate-Lesson1/com/company/instrucorservice/ReadInstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/out/production/Hibernate-Lesson1/com/company/instrucorservice/UpdateInstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/out/production/Hibernate-Lesson1/com/company/studentservice/CreateStudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/out/production/Hibernate-Lesson1/com/company/studentservice/DeleteStudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/out/production/Hibernate-Lesson1/com/company/studentservice/ReadStudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/out/production/Hibernate-Lesson1/com/company/studentservice/UpdateStudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/out/production/Hibernate-Lesson1/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/com/company/entity/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/com/company/entity/InstructorDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/com/company/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/com/company/instrucorservice/InstructorCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/com/company/instrucorservice/ReadInstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/com/company/instrucorservice/ReadInstructorDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/com/company/instrucorservice/UpdateInstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/com/company/studentservice/CreateStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/com/company/studentservice/DeleteStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/com/company/studentservice/ReadStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/com/company/studentservice/UpdateStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi/src/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/dataSources/aef6ff60-cb91-4a64-994c-555c93316630.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/dataSources/aef6ff60-cb91-4a64-994c-555c93316630/storage_v2/_src_/database/hibernate-student-tracker.K4YTyA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/dataSources/aef6ff60-cb91-4a64-994c-555c93316630/storage_v2/_src_/database/hibernate-student-tracker.K4YTyA/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/dataSources/aef6ff60-cb91-4a64-994c-555c93316630/storage_v2/_src_/database/hibernate-student-tracker.K4YTyA/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/dataSources/aef6ff60-cb91-4a64-994c-555c93316630/storage_v2/_src_/database/hibernate-student-tracker.K4YTyA/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/libraries/postgresql_42_2_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/libraries/required.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/Hibernate-Lesson1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/out/production/Hibernate-Lesson1/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/out/production/Hibernate-Lesson1/com/company/entity/Instructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/out/production/Hibernate-Lesson1/com/company/entity/InstructorDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/out/production/Hibernate-Lesson1/com/company/entity/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/out/production/Hibernate-Lesson1/com/company/instrucorservice/InstructorCreate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/out/production/Hibernate-Lesson1/com/company/instrucorservice/ReadInstructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/out/production/Hibernate-Lesson1/com/company/instrucorservice/UpdateInstructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/out/production/Hibernate-Lesson1/com/company/studentservice/CreateStudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/out/production/Hibernate-Lesson1/com/company/studentservice/DeleteStudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/out/production/Hibernate-Lesson1/com/company/studentservice/ReadStudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/out/production/Hibernate-Lesson1/com/company/studentservice/UpdateStudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/out/production/Hibernate-Lesson1/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/src/com/company/entity/Instructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/src/com/company/entity/InstructorDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/src/com/company/entity/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/src/com/company/instrucorservice/InstructorCreate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/src/com/company/instrucorservice/ReadInstructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/src/com/company/instrucorservice/UpdateInstructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/src/com/company/studentservice/CreateStudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/src/com/company/studentservice/DeleteStudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/src/com/company/studentservice/ReadStudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/src/com/company/studentservice/UpdateStudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson2-one-to-one/src/hibernate.cfg.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson6-many-to-many-uni/src/com/company/studentservice/CreateStudentAndCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson6-many-to-many-uni/src/com/company/studentservice/GetStudentAndCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/.idea/libraries/postgresql_42_2_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/.idea/libraries/required.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/Hibernate-Lesson6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/entity/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/entity/Instructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/entity/InstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/entity/Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/instrucorservice/create/CourseAndInstructorCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/instrucorservice/create/CreateReviewAndCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/instrucorservice/create/InstructorCourseDetailCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/instrucorservice/create/InstructorCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/instrucorservice/read/ReadCourseAndInstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/instrucorservice/read/ReadInstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/instrucorservice/read/ReadInstructorAndCourseAndReview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/instrucorservice/read/ReadInstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/instrucorservice/update/UpdateCourseInstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/instrucorservice/update/UpdateInstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/studentservice/CreateStudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/studentservice/DeleteStudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/studentservice/ReadStudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/studentservice/UpdateStudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/com/company/util/PrintInstructors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson1/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/entity/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/entity/Instructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/entity/InstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/entity/Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/instrucorservice/create/CourseAndInstructorCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/instrucorservice/create/CreateReviewAndCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/instrucorservice/create/InstructorCourseDetailCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/instrucorservice/create/InstructorCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/instrucorservice/read/ReadCourseAndInstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/instrucorservice/read/ReadInstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/instrucorservice/read/ReadInstructorAndCourseAndReview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/instrucorservice/read/ReadInstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/instrucorservice/update/UpdateCourseInstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/instrucorservice/update/UpdateInstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/studentservice/CreateStudentAndCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/studentservice/CreateStudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/studentservice/DeleteStudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/studentservice/GetStudentAndCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/studentservice/ReadStudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/studentservice/UpdateStudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/com/company/util/PrintInstructors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/out/production/Hibernate-Lesson6/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/src/com/company/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/src/com/company/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/src/com/company/entity/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-Lesson7-practise/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/libraries/postgresql_42_2_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/libraries/postgresql_42_2_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/libraries/required.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/libraries/required.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/Hibernate-Lesson1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/Hibernate-Lesson1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/entity/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/entity/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/instrucorservice/InstructorCreate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/instrucorservice/InstructorCreate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/instrucorservice/ReadInstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/instrucorservice/ReadInstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/instrucorservice/UpdateInstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/instrucorservice/UpdateInstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/studentservice/CreateStudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/studentservice/CreateStudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/studentservice/DeleteStudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/studentservice/DeleteStudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/studentservice/ReadStudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/studentservice/ReadStudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/studentservice/UpdateStudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/com/company/studentservice/UpdateStudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/out/production/Hibernate-Lesson1/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/entity/InstructorDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/entity/InstructorDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/instrucorservice/create/InstructorCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/instrucorservice/create/InstructorCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/instrucorservice/read/ReadInstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/instrucorservice/read/ReadInstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/instrucorservice/update/UpdateInstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/instrucorservice/update/UpdateInstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/studentservice/CreateStudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/studentservice/CreateStudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/studentservice/DeleteStudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/studentservice/DeleteStudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/studentservice/ReadStudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/studentservice/ReadStudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/studentservice/UpdateStudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/com/company/studentservice/UpdateStudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson4-one-to-many-uni/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson5-one-to-many-bi/out/production/Hibernate-Lesson1/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson5-one-to-many-bi/out/production/Hibernate-Lesson1/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate-Lesson5-one-to-many-bi/src/com/company/entity/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate-Lesson5-one-to-many-bi/src/com/company/entity/Instructor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +127,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hibernate-Lesson3-one-to-one-bi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hibernate-Lesson5-one-to-many-bi" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15527344" />
     <property name="project.structure.side.proportion" value="0.35632184" />
@@ -244,6 +225,7 @@
       <workItem from="1610875190102" duration="3192000" />
       <workItem from="1610903569264" duration="928000" />
       <workItem from="1610906656184" duration="1186000" />
+      <workItem from="1611051012663" duration="83000" />
     </task>
     <servers />
   </component>
@@ -263,10 +245,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610623956765" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1610907851250">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1611051096154">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610907851250" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611051096154" />
     <state width="1493" height="432" key="GridCell.Tab.0.bottom" timestamp="1610907853759">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
